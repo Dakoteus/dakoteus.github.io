@@ -4,6 +4,9 @@ title:  "Undergraduate Math Tree"
 date:   2021-10-02 22:51:30 -0400
 categories: jekyll update
 ---
+<div class="media">
+  <img width="500" src="/assets/images/mathtree.png"/>
+</div>
 When I was an undergrad at SUNY Fredonia I took an intro web dev course and for my final project I decided to make [this tree](https://mathtree.github.io/).<br><br>
 
 The idea here was that I thought learning comes easier when you know what the hell you're trying to learn. I also understood that the courses are connected and related in some way, so I represented the courses names as nodes and the edges as 'relationship'. <br><br>

@@ -255,6 +255,7 @@ GEM
     sawyer (0.8.2)
       addressable (>= 2.3.5)
       faraday (> 0.8, < 2.0)
+    scss (1.0.2)
     simpleidn (0.2.1)
       unf (~> 0.1.4)
     terminal-table (1.8.0)
@@ -280,6 +281,8 @@ DEPENDENCIES
   jekyll-feed (~> 0.15.1)
   jekyll-seo-tag (~> 2.7.1)
   minima (~> 2.5.1)
+  sass (~> 3.7)
+  scss (~> 1.0)
   tzinfo (~> 1.0.0)
   tzinfo-data
   wdm (~> 0.1.1)
