@@ -12,4 +12,6 @@ I had a really fun time with this proof. I still can't believe Erdős came up wi
 
 I think the reason why this was so hard is because Erdős just /says/ things that are true. Then somehow, all this seemingly random information about the middle binomial coefficient and the prime factorizations comes along to show that some random inequality creates a contradiction... but not even an immediate contradiction. If you see in the slides, n has to be greater than 468 for it to happen.<br><br>
 
-At the end of the day, this logically makes sense. But I have a hard time understanding *how* Erdős thought to glue these facts together to create this proof. I have also heard other people consider this to be one of the better proofs that they have read. It's also even a proof in <a href="https://en.wikipedia.org/wiki/Proofs_from_THE_BOOK">THE BOOK</a>.
+At the end of the day, this logically makes sense. But I have a hard time understanding *how* Erdős thought to glue these facts together to create this proof. I have also heard other people consider this to be one of the better proofs that they have read. It's also even a proof in <a href="https://en.wikipedia.org/wiki/Proofs_from_THE_BOOK">THE BOOK</a>. <br><br>
+
+In case there is no preview of the presentation, <a href="/assets/pres/pres.pdf">here it is</a>.
