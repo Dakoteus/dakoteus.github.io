@@ -21,7 +21,7 @@
 title: Dakota Wicker
 email: dakoteus2117@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my website! I plan to post interesting things here.
+  Welcome to my website! I plan to post interesting things here. You can read more about me in the "about" link in the top of this website.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://dakoteus.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
