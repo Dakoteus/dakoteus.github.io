@@ -42,7 +42,7 @@ a:visited{
     color:#1756a9
 }
 a:hover{
-    color:#111;
+    color:rgb(17, 17, 17);
     text-decoration:underline
 }
 blockquote{
