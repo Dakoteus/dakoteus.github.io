@@ -109,20 +109,20 @@ a.btn {
 .site-header {
 	background-color: transparent;
 	border-top: none;
-	border-bottom: 1px solid #0087CA;
+	border-bottom: 1px solid #018e86;
 	font-family: Roboto, "Helvetica", sans-serif
 }
 
 .site-title {
-	color: #0087CA;
+	color: #018e86;
 }
 
 .site-title:visited {
-	color: #0087CA;
+	color: #018e86;
 }
 
 .site-nav .page-link {
-	color: #0087CA;
+	color: #018e86;
 }
 
 @media screen and (max-width: 600px) {
@@ -134,7 +134,7 @@ a.btn {
 		box-shadow: 0px 3px 2px #e2e6e6
 	}
 	.site-nav .menu-icon>svg path {
-		fill: #0087CA;
+		fill: #018e86;
 	}
 }
 
