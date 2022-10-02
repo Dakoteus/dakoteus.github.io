@@ -4,13 +4,11 @@ title:  "Emergence"
 date: 2022-09-24 20:16:30 -0400
 categories: jekyll update
 ---
-
+A property of a system is said to be emergent if it is a new outcome of some other properties of the system and their interaction, while it is itself different from them.
 <p align="center">
   <img src="/assets/images/death_spiral.gif">
 </p>
-A property of a system is said to be emergent if it is a new outcome of some other properties of the system and their interaction, while it is itself different from them.
-
-Recently, life has lead me to question how certain complicated systems work. Such as governments, economies, businesses, relationships, friendships, general behavior in organisms, architecture, codebases, art, etc...
+Recently, life has lead me to question how certain complicated systems work. Such as governments, economies, businesses, relationships, general behavior in organisms, codebases, architecture, art, etc...
 
 I often wonder how much of my life exactly is due to emergence, and if its even useful to think of it that way. How much pain is caused from it? How much time, work, and money is waisted because of these horrible systems we find ourselves in and unable to escape from? The systems which not only serve us immediate pain, but leave us to question how much worse they can get. How did they emerge? Why did they emerge?  
 
