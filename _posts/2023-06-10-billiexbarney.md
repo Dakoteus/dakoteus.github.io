@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "billie x barney"
-date:2023-06-10 03:14:30 -0400
+date: 2023-06-10 03:14:30 -0400
 categories: jekyll update
 ---
 <p align="center">
