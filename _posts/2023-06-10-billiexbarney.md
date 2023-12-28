@@ -7,7 +7,7 @@ categories: jekyll update
 This morning I stumbled across a video of Billie Eilish doing a cover of "In the Mood for Love".
 It was great although I couldn't stop hearing Barney Kessel's playing over it. He was the guitarist on Julie London's "Julie Is Her Name".
 <p align="center">
-<a href="[https://example.com/](https://www.youtube.com/watch?v=HiHLn3Juwu4)">
+<a href="http://www.youtube.com/watch?v=HiHLn3Juwu4">
   <img src="/assets/images/billie.png" alt="AI Billie">
 </a>
   </p>
